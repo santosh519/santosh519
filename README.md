@@ -1,8 +1,8 @@
 ## Santosh Adhikari 👋
 
-**`Think of Digital Computer as the Human Brain`**
+**Translating the physics of light into practical software solutions.**
 
-I am an enthusiastic researcher in Large Language Models (LLMs) and Vision-Language Models (VLMs), passionate about turning research ideas into practical algorithms, implementing them at scale, running experiments, and launching new models. I actively follow the latest advancements in model training and optimization, with a particular interest in making LLMs more efficient, interpretable, and agentic. Whether it’s optimizing clustering algorithms for satellite image analysis or building multi-phase pipelines that combine symbolic reasoning and LLM-based inference for tasks like bug detection, my work reflects a drive to translate abstract research into working, real-world systems.
+I am an Electrical Engineer specializing in image processing and optical engineering. I am passionate about building software solutions that bridge hardware and software to validate next-generation optical systems. Proficient in Python, MATLAB, and C/C++ , I have hands-on experience developing automated radiometric calibration workflows and image quality evaluation (MTF) tools. I am driven to translate complex optical principles into robust, real-world applications.
 
 <p align="left">
       <a href="https://github.com/santosh519?tab=repositories&sort=stargazers">
