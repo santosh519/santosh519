@@ -2,7 +2,7 @@
 
 **Translating the physics of light into practical software solutions.**
 
-I am an Electrical Engineer specializing in image processing and optical engineering. I am passionate about building software solutions that bridge hardware and software to validate next-generation optical systems. Proficient in Python, MATLAB, and C/C++ , I have hands-on experience developing automated radiometric calibration workflows and image quality evaluation (MTF) tools. I am driven to translate complex optical principles into robust, real-world applications.
+I am an Electrical Engineer specializing in image processing and optical engineering. I am passionate about building software solutions that bridge hardware and software to validate next-generation optical systems. Proficient in Python, MATLAB, and C/C++ , I have hands-on experience developing automated camera sensor calibration workflows and image quality evaluation (MTF, Histogram Matching) tools. I am driven to translate complex optical principles into robust, real-world applications.
 
 <p align="left">
       <a href="https://github.com/santosh519?tab=repositories&sort=stargazers">
