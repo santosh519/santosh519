@@ -1,8 +1,6 @@
 ## Santosh Adhikari👨‍💻 
 
-**Translating the physics of light into practical software solutions.**
-
-I am an Electrical Engineer specializing in image processing and optical engineering. I am passionate about building software solutions that bridge hardware and software to validate next-generation optical systems. Proficient in Python, MATLAB, and C/C++ , I have hands-on experience developing automated camera sensor calibration workflows and image quality evaluation (MTF, Histogram Matching) tools. I am driven to translate complex optical principles into robust, real-world applications.
+I am a technical professional with a Master's in Electrical Engineering , specializing in data analytics, machine learning, and signal processing. I build scalable, automated pipelines to process, validate, and analyze data from complex hardware and sensor systems. Proficient in Python, MATLAB, R, and C/C++ , I have hands-on experience developing automated validation workflows , ML models , and real-time diagnostic systems. I am driven to translate complex engineering challenges into robust and reliable software solutions.
 
 <p align="left">
       <a href="https://github.com/santosh519?tab=repositories&sort=stargazers">
